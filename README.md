@@ -1,4 +1,4 @@
-# Projeto "Carousel" de imagens com JavaScript 
+# Projeto "Carousel" de imagens com JavaScript & JSON
 
 <h3 align="center"> 
 🚧  Finalizado  🚧
@@ -23,6 +23,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💡 Referência
 https://youtu.be/cX0N3TNxumw
+
+### 💬 Este projeto também foi adaptado e inserido em meu Clone UI! Segue abaixo para mais detalhes:
+https://github.com/guigams/Clone-UI-Amazonaz
 
 <hr/>
 
