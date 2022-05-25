@@ -1,8 +1,11 @@
-### Projeto "Carousel" de imagens com JavaScript 
+# Projeto "Carousel" de imagens com JavaScript 
 
 <h3 align="center"> 
 🚧  Finalizado  🚧
 </h3>
+
+### ✅ Resultado final:
+<img src="https://github.com/guigams/Carrosel-de-imagens/blob/main/img/CAROUSEL.PNG"/>
 
 ### 💻 Projeto
 
