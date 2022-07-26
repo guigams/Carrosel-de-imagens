@@ -48,5 +48,7 @@ $ yarn ou npm
 # Execute a aplicação
 $ yarn ou npm start
 
+```
+
 <hr/>
 Feito Por Guilherme Morais.
