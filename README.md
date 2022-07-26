@@ -29,11 +29,6 @@ https://github.com/guigams/Clone-UI-Amazonaz
 
 <hr/>
 
-Feito Por Guilherme Morais.
-
-<hr/>
-
-
 ### ⚙ Siga os pré-requisitos abaixo para iniciar o projeto:
 
 
@@ -52,3 +47,6 @@ $ yarn ou npm
 
 # Execute a aplicação
 $ yarn ou npm start
+
+<hr/>
+Feito Por Guilherme Morais.
